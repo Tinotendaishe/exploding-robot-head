@@ -52,3 +52,8 @@ body {
   top: -20px;
   position: relative;
 }
+
+.robot:hover > .robot-head-left {
+  top: -30px;
+  left: -170px;
+}
