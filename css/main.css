@@ -54,6 +54,16 @@ body {
 }
 
 .robot:hover > .robot-head-left {
-  top: -30px;
+  top: -26px;
   left: -170px;
+}
+
+.robot:hover > .robot-brain {
+  top: -49px;
+  z-index: 101;
+}
+
+.robot:hover > .robot-head-right {
+  top: -24px;
+  right: -149px;
 }
